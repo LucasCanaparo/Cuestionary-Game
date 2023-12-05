@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "core-util-is": "^1.0.3",
+    "express": "^4.18.2",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "node your-script.js"
+  }
+}
